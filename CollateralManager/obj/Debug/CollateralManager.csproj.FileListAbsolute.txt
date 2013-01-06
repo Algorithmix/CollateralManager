@@ -1,0 +1,8 @@
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\bin\Debug\CollateralManager.exe.config
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\bin\Debug\CollateralManager.exe
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\bin\Debug\CollateralManager.pdb
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\obj\Debug\CollateralManager.Form1.resources
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\obj\Debug\CollateralManager.Properties.Resources.resources
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\obj\Debug\CollateralManager.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\obj\Debug\CollateralManager.exe
+C:\Users\Richard\Desktop\AlgorithmixProjects\CollateralManager\CollateralManager\obj\Debug\CollateralManager.pdb
